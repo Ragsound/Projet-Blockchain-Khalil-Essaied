@@ -1,2 +1,2 @@
 # Projet-Blockchain-Khalil-Essaied
-projet blockchain 
+projet blockchain Khalil Essaied GL SI B 
